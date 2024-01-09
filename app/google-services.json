@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135486748995",
+    "project_id": "occreader-56355",
+    "storage_bucket": "occreader-56355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135486748995:android:c7521b8be73af17b5697f6",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.vision.ocrreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQ9zSJeg2L4zbyFhzvF7y4PdWYnfy1EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
